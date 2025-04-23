@@ -1,4 +1,4 @@
-from database import database
+﻿from database import database
 from models import users
 from schemas import UserCreate
 
